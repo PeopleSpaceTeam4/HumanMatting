@@ -26,4 +26,4 @@ Every week, members do code analysis to same part of '[SHM](https://github.com/l
 
 ## Others
 
-The final report and presentation PPT are under `final_materials` directory.
+The final report and presentation PPT per week are under `final_materials` directory.

@@ -9,7 +9,7 @@ code - 'lizhengwei1992' ([SHM](https://github.com/lizhengwei1992/Semantic_Human_
 
 | Name | Github ID |
 | - | - |
-|Mia|[hsebs](https://github.com/hsebs)|
+|Mia|[YimJiYoung](https://github.com/YimJiYoung)|
 |Bob|[]()|
 |Eun Ah|[EunAhChoi](https://github.com/EunAhChoi)|
 |Jeffrey|[jihoahn9303](https://github.com/jihoahn9303)|
